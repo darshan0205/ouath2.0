@@ -1,0 +1,37 @@
+Test Scenerio - What to test? -- nothing but test possibality and optimizing sentences/scenerios.-
+
+
+Test scenerio_ID			Module Name			Scenerio Description
+
+1.TS_Mod name_001			Mod name			Validate/verify user is able to _________
+
+2.TS_Login_001				Login_page			Validate user is able to login using valid credentials
+
+
+Test case - How to test?
+--> Detailed documentation
+--> Step by step Procedure
+
+Test case ID		Module name		Scenerio desp		Action steps		Test data
+
+
+
+
+positive testing : with given requirments
+
+
+
+
+
+
+Negative testing : 
+
+
+
+
+Requirments :
+1) User registration
+2) User Login
+3) Products
+4) Cart
+5) Address
